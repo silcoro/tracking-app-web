@@ -1,0 +1,21 @@
+.user_principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.user_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 0px 2px 0px;
+}
+
+.logo_principal{
+    width: 400px;
+    height: 400px;
+    padding: 0px;
+}

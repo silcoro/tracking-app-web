@@ -1,0 +1,14 @@
+.body_product{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.body_principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: start;
+
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1395231f.chunk.css",
+    "main.js": "/static/js/main.489af7a8.chunk.js",
+    "main.js.map": "/static/js/main.489af7a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.338e1d27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.338e1d27.js.map",
+    "static/js/2.ca5edb59.chunk.js": "/static/js/2.ca5edb59.chunk.js",
+    "static/js/2.ca5edb59.chunk.js.map": "/static/js/2.ca5edb59.chunk.js.map",
+    "static/js/3.7a4440bf.chunk.js": "/static/js/3.7a4440bf.chunk.js",
+    "static/js/3.7a4440bf.chunk.js.map": "/static/js/3.7a4440bf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1395231f.chunk.css.map": "/static/css/main.1395231f.chunk.css.map",
+    "static/js/2.ca5edb59.chunk.js.LICENSE.txt": "/static/js/2.ca5edb59.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/fondo_claro.a10427ac.jpg",
+    "static/media/logo.9bcf3e89.svg": "/static/media/logo.9bcf3e89.svg",
+    "static/media/repartidor.92ad4c27.jpg": "/static/media/repartidor.92ad4c27.jpg",
+    "static/media/repartidor_nosotros.53b9838d.jpg": "/static/media/repartidor_nosotros.53b9838d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.338e1d27.js",
+    "static/js/2.ca5edb59.chunk.js",
+    "static/css/main.1395231f.chunk.css",
+    "static/js/main.489af7a8.chunk.js"
+  ]
+}

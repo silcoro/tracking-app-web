@@ -1,0 +1,9 @@
+.home_principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    height: 600px;
+    background-image: url('../../imagenes/fondo_claro.jpg');
+}
